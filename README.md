@@ -1,1 +1,1 @@
-# git_study
+# react_study
